@@ -1,0 +1,26 @@
+{
+    "name": "gridsome-plugin-markdown-gen",
+    "version": "1.0.0",
+    "description": "Generates default markdown file",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Archeelux/gridsome-plugin-markdown-gen.git"
+    },
+    "keywords": [
+        "gridsome",
+        "markdown"
+    ],
+    "author": "Archeelux",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Archeelux/gridsome-plugin-markdown-gen/issues"
+    },
+    "homepage": "https://github.com/Archeelux/gridsome-plugin-markdown-gen#readme",
+    "bin": {
+        "md-gen": "cli.js"
+    }
+}
